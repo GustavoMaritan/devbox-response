@@ -1,0 +1,16 @@
+{
+	"name": "devbox-response",
+	"version": "0.0.1",
+	"description": "Padrão retorno de api, tratamentos de requisição",
+	"main": "./lib/index.js",
+	"author": "Gustavo Maritan",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/GustavoMaritan/devbox-response.git"
+	},
+	"keywords": [],
+	"bugs": {
+		"url": "https://github.com/GustavoMaritan/devbox-response/issues"
+	},
+	"homepage": "https://github.com/GustavoMaritan/devbox-response#readme"
+}
