@@ -1,6 +1,6 @@
 ﻿{
 	"name": "devbox-response",
-	"version": "1.0.5",
+	"version": "1.0.7",
 	"description": "Padrão retorno de api, tratamentos de requisição",
 	"main": "./lib/index.js",
 	"author": "Gustavo Maritan",
